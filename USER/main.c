@@ -7,7 +7,8 @@ int main()
 	usart_init(115200);
     while (1)
     {
-        printf("hello world£¡\r\n");
+        printf("hello worldÂ£Â¡\r\n");
+	printf("1008");
     }
     
 }
